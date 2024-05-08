@@ -1,0 +1,205 @@
+UNLAR
+UNLAR
+UNIVERSIDAD NACIONAL DE LA RIOJA
+Departamento Académico de Exactas,
+Físicas y Naturales
+Licenciatura en Sistemas de Información
+Ingeniería de Software
+Profesor Titular: Ing. Marcelo Roldan
+Prof. Adjunto:Gramajo Cristina.
+Prof. Ayudante de Primera: Cordoba Pablo.
+Actividad de Aprendizaje N° 1
+Oliva Ana Lucia
+ELSI842
+CONSIGNAS: Analice con sus compañeros estudiantes y responda.
+1. De algunos ejemplos (tanto positivos como negativos) que indiquen el
+efecto del software en nuestra sociedad.
+Ejemplos positivos:
+• Simplificación de la toma de decisiones.
+El software ha cambiado la forma en que las empresas recopilan, gestionan y
+analizan datos, a través de sistemas y herramientas de software las
+organizaciones pueden acceder a información valiosa en tiempo real y tomar
+decisiones con una sólida base.
+• Incrementación de la productividad.
+Con el desarrollo de software las organizaciones pueden optimizar sus
+procesos, permitiendo la automatización de tareas repetitivas y complejas, lo
+que conllevo a un aumento en la eficiencia de muchos sectores.
+• Avance de la comunicación.
+Las aplicaciones y plataformas de software han revolucionado la forma en
+que nos comunicamos, facilitando la interacción entre personas que podrían
+estar separadas por miles de kilómetros. La llegada de las redes sociales han
+significado un antes y un después en la manera en que nos comunicamos
+entre nosotros.
+Ejemplos negativos:
+•
+Dependencia total del software y las fallas.
+Hoy en día todo está implementado o relacionado con software, por lo tanto,
+si una organización desea que sus actividades sean completamente
+dependientes del software, sin contar con planes de contingencias o
+mantenimiento, podría llevar a la pérdida de datos, caídas de los servicios, y
+generar costos innecesarios.
+• Desempleo en puestos de trabajo desactualizados.
+Si bien, un efecto positivo es la evolución de los sistemas hasta lo que hoy
+conocemos, un efecto negativo en este aspecto es la continua y acelerada
+actualizaciones sobre el desarrollo de software, trayendo de la mano, el
+desempleo de algunos puestos que quedan obsoletos frente a la tecnología,
+2. Desarrolle sus propias respuestas a estas cinco preguntas
+• ¿Por qué se requiere tanto tiempo para terminar el software?
+El desarrollo de software, según la metodología empleada, puede extenderse
+considerablemente debido al exhaustivo estudio de los requisitos y la
+atención especial al diseño basado en dichos requisitos del usuario. Por lo
+tanto, la etapa de análisis es de vital importancia para identificar
+adecuadamente la información relevante al construir software. Además, es
+crucial reconocer que pueden surgir cambios a lo largo de todo el proceso de
+desarrollo, lo que puede llevar a que el producto o servicio final requiera más
+tiempo para completarse.
+• ¿Por qué son tan altos los costos de desarrollo?
+Cuando consideramos los costos, abarcamos distintos aspectos, como los
+económicos, el tiempo invertido, los recursos utilizados y el conocimiento
+necesario para desarrollarlo. Para lograr crear software de calidad, es
+fundamental disponer de tiempo y recursos adecuados. El proceso de
+desarrollo puede extenderse considerablemente, requiriendo la adquisición o
+implementación de herramientas costosas. Además, las deficiencias durante
+el análisis y diseño pueden resultar en aumentos en los costos del proyecto
+de software.
+• ¿Por qué no podemos detectar todos los errores antes de entregar el
+software a nuestros clientes?
+Existen diversos factores que pueden dificultar la detección completa de
+errores antes de entregar el software. A pesar de realizar pruebas
+exhaustivas en el entorno de desarrollo, algunos errores pueden pasar
+desapercibidos hasta que el software se encuentra en producción y se
+somete a un ambiente real. Esta situación se debe a la complejidad inherente
+del software, que a veces hace imposible prever todos los posibles
+escenarios o contingencias a los que estará expuesto el producto.
+.
+• ¿Por qué dedicamos tanto tiempo y esfuerzo a mantener los
+programas existentes?
+Es posible que se mantengan los programas existentes debido a diversos
+factores. En primer lugar, el desarrollo de nuevos programas desde cero
+implica costos significativos que pueden resultar prohibitivos. Además, el
+proceso de migración de programas considerados "obsoletos" a versiones
+más modernas puede ser complicado debido a la falta de herramientas que
+faciliten una transición sin pérdida de datos, lo que conlleva un considerable
+gasto de tiempo y recursos. Existe también la incertidumbre asociada con la
+implementación de un programa nuevo, ya que no ha sido probado en el
+contexto específico de uso y podría presentar fallas o incluso tener una
+funcionalidad inferior a la del software antiguo. Por último, las capacitaciones
+requeridas para el uso eficaz de nuevos programas también representan una
+inversión significativa en términos de recursos.
+.
+• ¿Por qué seguimos con dificultades para medir el avance mientras se
+desarrolla y mantiene el software?
+El desarrollo de software, junto con los nuevos productos y herramientas
+tecnológicas para su creación, se está volviendo cada vez más complejo. La
+capacidad de establecer plazos concretos para la entrega de un producto
+software es una tarea desafiante, dado que siempre hay cambios en los
+requisitos del usuario o la adición de funcionalidades no anticipadas. Las
+pruebas constantes durante el desarrollo obligan a reconsiderar y comenzar
+de nuevo, teniendo en cuenta nuevas consideraciones. Además, es difícil
+definir métricas reales para medir el progreso o la efectividad del sistema.
+Esta naturaleza dinámica y en constante cambio del software dificulta la
+definición precisa de los avances realizados en su desarrollo.
+3. Muchas aplicaciones modernas cambian con frecuencia, antes de que se
+presenten al usuario final y después de que la primera versión ha entrado en
+uso. Sugiera algunos modos de elaborar software para detener el deterioro
+que produce el cambio.
+Ante esta situaciones, sugeriría métodos concretos que están ampliamente
+relacionados con el análisis concreto de los requerimientos de los usuarios para
+comprender a fondo sus expectativas y necesidades: El uso de entrevistas, pruebas
+de usabilidad, puede reducir en un porcentaje la cantidad de cambios que se
+produzcan durante el inicio del desarrollo del software y su entrega.
+También podría ser útil integrar los principales usuarios interesados, desarrollar en
+la medida que se lo permita distintos prototipos incrementales que permitan una
+rápida validación de parte de los usuarios, esta metodología facilita la adaptación a
+cambios y reduce el riesgo de que se produzcan desviaciones importantes en el
+desarrollo.
+Además, la comunicación es clave a la hora de construir software, utilizar lenguajes
+que permitan representar de una manera clara y fácil de entender los distintos
+requerimientos, arquitectura, diseño del software, como lo es el lenguaje UML,
+facilita mucho la comunicación entre el equipo de desarrolladores y el equipo no
+técnico y usuarios finales, haciendo posible que todos puedan participar a la hora de
+la elaboración del software.
+4. Considerando las siete categorías de software presentadas ¿Piensa que
+puede aplicarse a cada una el mismo enfoque de ingeniería de software?
+No, no daría buenos resultados usar el mismo enfoque de ingeniería de software
+para cada categoría. Y se puede explicar con una analogía muy simple:
+Imaginemos que somos profesores de inglés y tenemos que enseñar los contenidos
+del nivel inicial A1, a 3 grupos distintos de personas: a un grupo de niños, a uno de
+adolescentes y a otro de adultos; Por más que mi objetivo sea el mismo, yo no
+puedo utilizar la misma metodología de enseñanza en los 3 grupos, por la sencilla
+razón, y citando a los principios de la pedagogía, de que cada grupo está en una
+etapa diferente y tienen diferentes maneras de aprendizaje.
+Por lo tanto, si yo tengo el objetivo de la creación de software de calidad, y quiero
+implementar el mismo enfoque de ingeniería de software, sabiendo que cada
+aplicación de software tiene sus propias características, sus propios requerimientos
+o normativas a cumplir, no solo no voy a obtener resultados buenos en relación a la
+calidad del software que desarrollo sino que estaría limitando el potencial de cada
+proyecto comprometiendo su efectividad.
+5. ¿Es aplicable la ingeniería de software cuando se elaboran webapps? Si es
+así, ¿cómo puede modificarse para que asimile las características únicas de
+éstas aplicaciones?
+Si es aplicable, la ingeniería de software también proporciona un enfoque
+disciplinado para el desarrollo web. Teniendo en cuenta que las webapps tiene
+características específicas hay que tener en cuenta las siguientes consideraciones:
+• Enfoque en la arquitectura web: arquitecturas específicas para la web,
+como MVC (Modelo-Vista-Controlador), arquitecturas basadas en
+microservicios o arquitecturas serverless.
+•
+Desarrollo Ágil: Para las webapps, donde los requisitos y las tecnologías
+cambian rápidamente, es crucial adoptar metodologías ágiles, como Scrum o
+Kanban, que permitan iteraciones cortas y una respuesta rápida a los
+cambios.
+• Tecnología web moderna.
+• Seguridad y rendimiento: implementar medidas de seguridad robustas,
+como autenticación y autorización adecuadas, y optimizar el rendimiento de
+la aplicación para garantizar una experiencia de usuario óptima.
+6. A medida que el software gana ubicuidad, los riesgos para el público
+(debidos a programas defectuosos) se convierten en motivo de preocupación
+significativa. Desarrolle un escenario catastrófico pero realista en el que la
+falla de un programa de cómputo pudiera ocasionar un gran daño (económico
+o humano).
+Un escenario catastrófico, y realista seria sistemas de tiempo real que podemos
+encontrar en un aeropuerto, en las salas de controles, un error en un sistema que
+lleva la monitorización de las ubicaciones, alturas, guías de los aviones, debido a
+una mal mantenimiento del sistema o un error técnico en la programación, quizás en
+una actualización del sistema que venían usando, que produzca una mala lectura y
+con poca precisión del rastreo de las aeronaves, como consecuencia una mala
+información o guía de los encargados de la sala de control, posibles accidentes que
+podrían costar vidas, demandas millonarias sobre la empresa que podrían resultar
+en la quiebra de la misma.
+7. Describa con sus propias palabras una estructura de proceso. Cuando se
+dice que las actividades estructurales son aplicables a todos los proyectos,
+¿significa que se realizan las mismas tareas en todos los proyectos sin que
+importe su tamaño y complejidad? Explique su respuesta.
+Estructura de proceso: Es la organización de las actividades o etapas que
+componen el proceso de desarrollo de software. Es la base que determinará el
+marco de trabajo general que guiará el ciclo de vida del proyecto que se quiera
+desarrollar.
+Cuando se dice que las actividades estructurales son aplicables a todos los
+proyectos no quiere decir que se realicen las mismas tareas en todos los proyectos
+sin distinguir su tamaño y complejidad. Las actividades estructurales son actividades
+fundamentales a la hora del desarrollo de software, estas son las siguientes:
+-Comunicación: Sin comunicación no obtenemos los requerimientos del software,
+sin requerimientos no podemos desarrollar la funcionalidad del mismo. Si no
+sabemos qué es lo que vamos a desarrollar y para qué, no se puede empezar
+ningún proyecto.
+-Planeación: Sin una planificación del proyecto no vamos a poder determinar tareas
+necesarias a cumplir, plazos estimativos, riesgos, costos, básicamente es andar sin
+un eje, improvisando, y cuando se trata de algo complejo como el desarrollo de
+software, la improvisación sólo determina un alto costo de recursos de todo tipo.
+-Modelado: El modelo es la guía en la que se basará la posterior construcción, sin
+un modelo del cual guiarse, es como escribir un algoritmo sin un diagrama de flujo,
+se vuelve complejo y difícil de comprender. Es esencial entender que es lo que se
+quiere lograr para empezar a construir y cómo hacerlo.
+-Construcción: Sin construcción no obtenemos el producto real tangible destinado
+a los usuarios.
+-Despliegue: Es la entrega del software al consumidor final, sin el despliegue es
+como nunca entregar la mercadería que nos han comprado, tampoco podemos
+saber si realmente cumple con su función lo que hemos creado.
+Por lo tanto, entendiendo para qué sirve cada actividad estructural, nos podemos
+dar cuenta de que se habla de marcos generales que puede ser aplicable a todos
+los proyectos, sin embargo no se especifica exactamente qué tareas se realizará
+durante las actividades estructurales, y dependiendo el tamaño, el tipo de software,
+la complejidad, se va a desarrollar los detalles específicos en cada una de las de
+ellas, adaptando el proceso de software según el producto final que queramos
+obtener y cumplir con sus determinadas características.

@@ -1,0 +1,86 @@
+UNLAR
+UNLAR
+UNIVERSIDAD NACIONAL DE LA RIOJA
+Departamento Académico de Exactas,
+Físicas y Naturales
+Licenciatura en Sistemas de Información
+Ingeniería de Software
+Profesor Titular: Ing. Marcelo Roldan Prof.
+Adjunto:Gramajo Cristina.
+Prof. Ayudante de Primera: Cordoba Pablo.
+Resumen Paper
+Oliva Ana Lucia
+Ruiz Facundo Horacio
+ELSI842
+ELSI919
+Caliva Reynoso Dilan Nahuel ELSI911
+El documento es un paper de investigación que propone un enfoque metodológico para
+migrar sistemas monolíticos heredados hacia una arquitectura de microservicios, utilizando
+la práctica de especificar los requisitos de software a través de ejemplos.
+Un "ejemplo❞ es una descripción detallada de cómo debería funcionar una parte específica
+del sistema en respuesta a ciertas acciones o condiciones.
+Se especifica el concepto de "software heredado" como aquel que ha alcanzado un cierto
+nivel de éxito pero es difícil de mantener debido a una falta de conocimiento sobre su
+funcionamiento.
+Esto puede deberse a varias razones:
+•
+El equipo de desarrollo ya no trabaja en él.
+•
+Una falta de pruebas de aceptación o técnicas.
+·
+•
+Documentación insuficiente.
+Funcionalidades desconocidas.
+•
+Gran cantidad de deuda técnica que dificulta las pruebas y la comprensión.
+La práctica de especificar los requisitos de software a través de ejemplos implica utilizar
+ejemplos para definir el comportamiento esperado del software. Este enfoque puede
+mejorar la comunicación entre los diferentes roles involucrados en el desarrollo de software
+y puede llevar a un desarrollo de software más preciso y eficiente. Esta práctica también
+puede ser útil para recuperar sistemas heredados, ya que puede ayudar a identificar las
+funcionalidades que necesitan ser migradas y especificar su comportamiento esperado.
+La metodología propuesta involucra varios pasos.
+1. Se analiza el sistema heredado para identificar las funcionalidades que necesitan ser
+migradas.
+2. Se definen ejemplos para cada funcionalidad, y el software se desarrolla para
+cumplir con esos ejemplos.
+3. El software se prueba utilizando los ejemplos, y se identifican y corrigen cualquier
+discrepancia entre el comportamiento esperado y real.
+4. Una vez que una funcionalidad ha sido migrada con éxito, se despliega como un
+microservicio, y el proceso se repite para la siguiente funcionalidad.
+Este enfoque tiene varias ventajas. Primero, permite una migración incremental, lo que
+puede reducir el riesgo asociado con cambios en el sistema a gran escala. Segundo,
+permite una mayor colaboración entre los diferentes roles involucrados en el desarrollo de
+software, lo que puede llevar a un mejor diseño y arquitectura de software. Tercero, puede
+mejorar la mantenibilidad del software al reducir la deuda técnica y aumentar la claridad
+del comportamiento esperado del software.
+Sin embargo, también cuenta con sus desventajas. Por ejemplo, la difícil identificación de
+las funcionalidades que necesitan ser migradas y definir ejemplos precisos para ellas.
+Además, el proceso de migración puede ser lento y requerir muchos recursos.
+Las organizaciones deberían priorizar las funcionalidades que son más críticas para sus
+necesidades comerciales y que establezcan canales de comunicación claros entre los
+diferentes roles involucrados en el proceso de migración. Sin duda alguna la información
+proporcionada del paper crea un marco útil para las organizaciones que buscan migrar sus
+sistemas heredados hacia una arquitectura de microservicios. Al utilizar la práctica de
+especificar los requisitos de software a través de ejemplos, las organizaciones pueden
+mejorar la precisión, eficiencia y mantenibilidad de sus procesos de desarrollo de
+software.
+La metodología propuesta también tiene implicaciones potenciales para la educación en
+ingeniería de software, se describen planes para validar la propuesta a través de
+proyectos finales de grado de estudiantes universitarios. Aplicando la metodología a
+sistemas heredados del mundo real para evaluar su efectividad y manejar la mantenibilidad
+y escalabilidad de dichos sistemas.
+Con este enfoque de ingeniería de software y educación, los educadores pueden ayudar a
+preparar a la próxima generación de ingenieros de software para enfrentar los desafíos
+asociados con la migración de sistemas heredados.
+Es importante la colaboración entre la academia y la industria para abordar dichos
+desafíos, al trabajar juntos, investigadores y profesionales pueden desarrollar metodologías
+más efectivas de migración y garantizar que estos sistemas sigan siendo relevantes y
+valiosos frente a la rápida evolución de la tecnología.
+En conclusión, se destaca la necesidad de investigar las mejores prácticas para definir
+ejemplos en el contexto de software heredado, así como el desarrollo de herramientas y
+técnicas para automatizar el proceso de migración. También la importancia de evaluar la
+efectividad de la metodología propuesta en diferentes contextos reales y la identificación de
+posibles limitaciones y desafíos asociados con su aplicación. Estas áreas de investigación
+son fundamentales para avanzar en la comprensión y aplicación de la migración de
+sistemas heredados hacia arquitecturas de microservicios.

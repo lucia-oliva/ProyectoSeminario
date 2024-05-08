@@ -1,0 +1,38 @@
+{
+  "name": "chatpdf",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.5.10",
+    "@astrojs/svelte": "^5.3.0",
+    "@astrojs/tailwind": "^5.1.0",
+    "@google-cloud/aiplatform": "^3.17.0",
+    "@google/generative-ai": "^0.5.0",
+    "astro": "^4.5.13",
+    "cloudinary": "^2.1.0",
+    "dotenv": "^16.4.5",
+    "googleapis": "^134.0.0",
+    "openai": "^4.33.0",
+    "popmotion": "^11.0.5",
+    "scroll-into-view-if-needed": "^3.1.0",
+    "stylefire": "^7.0.3",
+    "svelte": "^4.2.12",
+    "svelte-file-dropzone": "^2.0.4",
+    "svelte-markdown": "^0.4.1",
+    "tailwindcss": "^3.4.3",
+    "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.5",
+    "flowbite": "^2.3.0",
+    "flowbite-svelte": "^0.44.24",
+    "ts-node": "^10.9.2"
+  }
+}

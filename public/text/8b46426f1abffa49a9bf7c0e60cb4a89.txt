@@ -1,0 +1,103 @@
+6/5/2016
+Cómo escribir una historia de usuario en 5 pasos - Agile Coaching
+Cómo escribir una historia de usuario en 5 pasos -
+Agile Coaching
+¿Qué es una user story?
+Una user story (o historia de usuario) es un recordatorio de los requisitos del usuario escritos
+de manera ágil, liviana (en una tarjeta o post-it, real o virtual) para luego conversar, negociar y
+acordar con el cliente qué se hará en el momento que necesitemos planificarla, de acuerdo a las
+prioridades y objetivos del negocio.
+Esto significa que los requerimientos pueden cambiar, confirmarse o eliminarse durante el proyecto, y
+se van redefiniendo a medida que avanzamos.
+Las historias no son requerimientos escritos; contar historias a través de la
+colaboración con palabras e imágenes es un mecanismo que construye entendimiento
+compartido. Son discusiones acerca de las soluciones a problemas para nuestra
+organización, nuestros clientes y nuestros usuarios, que llevan a acuerdos sobre los
+cuales construimos. Nuestro trabajo no es construir software más rápido: es maximizar
+la salida y el impacto a obtener de lo que elegimos construir. Jeff Patton
+¿Para qué sirven?
+El objetivo de escribir user stories es determinar quién, qué y para qué se utilizará cada
+funcionalidad. Son escuetas en su contenido porque dan la posibilidad de colaborar y construir
+iterativamente entre los miembros del equipo, con el cliente y usuarios finales, al recibir feedback.
+Comparando con las metodologías tradicionales, en los casos de uso del Proceso Unificado, por
+ejemplo, hacíamos hincapié a las especificaciones del diseño de software para que pudieran
+codificarse como parte de una actividad de sistema; en cambio a las historias de usuario las
+utilizamos para estimar y planificar, ocasión en la que aprovechamos para conversar en más
+profundidad sobre sus particularidades dentro del sistema, y tenemos desde el comienzo una pauta
+sobre cómo probarlas, con el criterio de aceptación.
+Por sí solo el post it o tarjeta no tiene validez si no es corroborada y construida en cooperación como
+equipo.
+Una user story sigue la forma:
+Como <quién> Quiero <qué> Para <objetivo>.
+Ejemplo de user story para crear un calendario de pago de expensas, en una aplicación para la administración de
+edificios.
+1. Quién utilizará la funcionalidad
+http://agilecoaching.com.ar/como-escribir-una-historia-de-usuario-en-5-pasos/
+1/3
+6/5/2016
+Cómo escribir una historia de usuario en 5 pasos - Agile Coaching
+Puede haber varias personas que representen el papel de usuario. Para poder entender a los
+usuarios debemos imaginarnos qué características tienen las personas que usarán el sistema, y
+detallar su necesidad y problemas actuales para dar lugar al entendimiento común sobre sus
+expectativas reales.
+Como guía para poder identificar claramente quién es nuestro usuario podemos responder estas
+preguntas:
+•
+¿Quién es el usuario para el que estamos trabajando en esta historia en particular?
+•
+¿Qué hace, en qué trabaja, cómo y dónde vive, cuántos años tiene?
+•
+¿Qué tecnología sabe usar? ¿Le sería fácil aprender?
+¿Para qué quiere usar la aplicación?
+¿Qué problemas se le presentan actualmente para resolver su necesidad?
+Es posible que descubramos que no todos los usuarios se sientan cómodos empleando el software
+que originalmente pensamos, y haya que adaptarlo a sus gustos particulares. Con el feedback que
+recibimos puede que tengamos que cambiar algunas condiciones de entrada, luego de que los
+usuarios lo prueben.
+2. Qué quieren los usuarios
+A diferencia de las especificaciones tradicionales de software, las historias de usuario se caracterizan
+por describir qué se espera como salida de la implementación y cómo se ve beneficiado el usuario
+final. Escribimos su petición en lenguaje natural, sencillo, para poder conversar directamente con
+ellos sobre esto. Recordemos que generalmente los usuarios finales desconocen el lenguaje técnico,
+y podemos ahorrarnos las palabras difíciles para discutir dentro del equipo. Al usuario no le importa
+qué tecnología usamos, sino si resolvemos su problema, y cómo usará esta solución; quieren que
+sea simple, intituitiva, fácil de usar. Incluso dentro de nuestro equipo, no todos tienen que ser
+expertos en desarrollo para poder hacer su trabajo.
+La parte más difícil de reunir los requerimientos no es el acto de anotar lo que el cliente
+quiere, es la actividad exploratoria e incremental de ayudar a otros a darse cuenta de
+qué quieren. Steve McConnell
+3. Para qué
+Es importante definir un contexto para que exista la historia que estamos creando, porque nos
+ayudará a entender el valor que estaremos aportando, su objetivo de construcción, y nos da la
+posibilidad de explorar otras alternativas para llegar al mismo fin.
+Nuevamente, a diferencia de los casos de uso, en donde estaban completamente escritos los pasos
+a seguir para llegar al objetivo, aquí podemos adoptar diferentes caminos, porque a medida que
+progresamos se harán más claros para el equipo los gustos y deseos del cliente.
+4. Resultados esperados
+http://agilecoaching.com.ar/como-escribir-una-historia-de-usuario-en-5-pasos/
+2/3
+6/5/2016
+Cómo escribir una historia de usuario en 5 pasos - Agile Coaching
+El criterio de aceptación nos dice exactamente qué salidas obtendremos cuando finalice el
+proceso de ejecución de la funcionalidad, y nos sirve para verificar que está terminada la
+funcionalidad (DOD). Esta condición está directamente relacionada con las pruebas que realizaremos
+para verificar que cumplimos con la expectativa de diseño, usabilidad, rendimiento, y principalmente
+la satisfacción de su necesidad.
+Hay varias maneras de escribir el criterio de aceptación: incluyendo puntos a verificar (como en el
+ejemplo), pequeños pasos para llegar a estos resultados, descripción breve del proceso, bosquejo
+sencillo, o la forma (útil para la automatización de pruebas):
+Dado que <condición> Cuando <causa> Entonces <efecto>.
+En los resultados esperados podemos tener mock-ups, wireframes o prototipos, dibujos a mano
+alzada y diagramas de las interfaces que esperamos construir. No es necesario que sea algo
+complejo, con que pueda entenderse y a partir de allí construir la solución es suficiente (en caso de
+no requerirse documentación específica por parte del cliente).
+5. Comentarios
+Como dijimos, las user stories facilitan la conversación permanente con el cliente para verificar
+que lo que estamos construyendo está de acuerdo a sus expectativas en cuando a funcionamiento
+del sistema. Esta discusión y negociación se va registrando según se necesite como comentarios,
+notas adicionales a tener en cuenta a la hora de llevarlo a código/diseño/pruebas. Esta forma de
+trabajo nos ayuda a colaborar y mantener una comunciación fluida con los miembros del equipo, ya
+que la historia va cambiando durante la marcha de la iteración y progresivamente se va elaborando
+en conjunto.
+http://agilecoaching.com.ar/como-escribir-una-historia-de-usuario-en-5-pasos/
+3/3

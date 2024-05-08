@@ -1,0 +1,224 @@
+UNLAR
+UNIVERSIDAD NACIONAL DE LA RIOJA
+Departamento Académico de Exactas, Físicas y
+Naturales
+Redes y Comunicaciones I
+Trabajo Final -
+Relevamiento de una Red de
+Datos
+OLIVA ANA LUCIA
+ELSI 842
+RUIZ FACUNDO
+ELSI919
+CALIVA REYNOSO DILAN NAHUEL
+ELSI 911
+Introducción
+Sobre la organización
+Estructura de redes
+Topología
+Diseño
+Protocolos
+Medios físicos de transmisión
+Hardware de red
+Redes inalámbricas
+Topología
+Seguridad de redes
+Conclusión
+4
+7
+7
+7
+3344455600
+8
+Introducción
+Sobre la organización
+Llevaremos a cabo un relevamiento de la red de datos local de una entidad privada.
+Este análisis abordará aspectos teóricos y prácticos, explorando temas como la estructura
+de la red, medios de transmisión, hardware, protocolos, redes inalámbricas y seguridad. El
+objetivo es obtener una comprensión detallada y aplicar los conocimientos adquiridos en la
+materia
+La organización elegida para llevar a cabo es una institución autogestionada (patrimonio y
+recursos propios y organización administrativa autónoma) que agrega el ejercido delegado,
+por intermedio de una ley específica, de atribuciones que son propias del Estado, como el
+gobierno y control de las matrículas puestas bajo su custodia y el ejercido de la potestad
+disciplinaria entre los profesionales de la especialidad de las ciencias económicas.
+Estructura de redes
+Usos de la red de datos:
+La red de datos se utiliza para compartir archivos, sistemas y datos entre las
+estaciones de trabajo, además de cumplir el rol de almacenamiento de la información en los
+servidores.
+Tipo de red implementada:
+La red sigue una arquitectura Cliente/Servidor.
+Topología
+Topología físicas:
+La topología principal de la red es en Estrella de forma física. Aunque también se
+utiliza una topología en malla (Mesh) para la conexión inalámbrica.
+Expansiones de la red:
+Actualmente, no se realizan expansiones en la red. Ni se planean para un futuro.
+Diseño
+• Utiliza la categoría FTTH GPON.
+•
+No hay servidores especializados en la red, como servidores de archivos, impresión,
+internet, correo electrónico, o proxy.
+•
+Hay aproximadamente 30 estaciones de trabajo conectadas en la red.
+Tienen impresoras de red, compartidas a través de la red cableada.
+UTP.
+UTP.
+UTP.
+UTP.
+-UTP
+LUTP
+Work area
+Work area
+PC
+PC
+PC
+PC
+PC
+UTP
+Work area
+UTP
+000
+UTP
+UTP
+MDF
+UTP
+Servidor
+Impresora
+Servidor(backup)
+UTP
+Terminal
+Módem
+Enrutador
+Protocolos
+Protocolos de comunicación: TCP/IP
+Configuración: Estática
+UTP-
+UTP-
+-UTP
+-UTP-
+Work area
+PC
+PC
+PC
+PC
+•
+Medios físicos de transmisión
+La red cuenta con conexiones tanto cableadas como inalámbricas.
+Tipos de cables implementados:
+Se utiliza cableado UTP CAT 5E para las conexiones cableadas.
+Hardware de red
+Se utilizan Switches (descripciones no especificadas)
+.
+•
+UPS
+○
+Marca: Reguvolt
+○
+RV1000T
+○
+о
+о Entrada: 220-240Vca, 50/60Hz
+Potencia: 900W, 1KVA
+Salida: 220-240Vca, 50/60Hz | 6A
+о
+Fase: Monofase +N
+о Clase I
+• Routers (ONT)
+ZNID-GPON-2426A
+• Modem
+Cisco DPC 3008
+Especificaciones:
+DOCSIS
+·
+•
+Ocho (8) canales descendentes enlazados con velocidades de datos
+superiores a 340 Mbps
+Cuatro (4) canales ascendentes enlazados con velocidades de datos
+superiores a 120 Mbps
+• Diseñado para cumplir con las especificaciones de DOCSIS 3.0 y
+compatibilidad con versiones anteriores de las redes DOCSIS 2.0, 1.1 y 1.0
+existentes
+• Tecnología de procesamiento de paquetes mejorada para maximizar el
+rendimiento
+• Rango de sintonización ampliado, 88-1002 MHz
+•
+Conectores y cables codificados por colores para una fácil instalación y
+configuración
+Conexiones
+•
+• Puerto Ethernet 10/100/1000BASE-T de detección automática / auto-MDIX
+Soporte para hasta 64 usuarios (en concentradores Ethernet proporcionados
+por el usuario)
+•
+Repetidores(marca no especificada).
+• Para estructurar mejor el cableado se utilizó un Rack de tipo mural de la marca tyco.
+Estaciones(clientes):
+Procesador Intel(R) Core(TM) i3 CPU 540 @ 3.07Ghz 3.06 Ghz.
+Memoria Ram: 4 GB
+•
+о
+○
+○
+Tipo de Sistema: 64 bits.
+•
+○ Grupo de Trabajo: CPCE2021
+○
+Sistema Operativo: Windows 10.
+Servidores
+Impresora
+1 de backup
+1 Servidor SIAP
+• Impresora multifunción MP402
+Especificaciones:
+CPU: Intel Atom 1,46 GHz
+Interfaz: Estándar Ethernet 10 base-T/100 base-TX/1000 base-T, USB Host 2.0.
+Interfaz: opción IEEE 1284 bidireccional/ECP, LAN Inalámbrico (IEEE 802.11a/b/g), NIC
+adicional (2° puerto)
+Protocolo de red: TCP/IP
+Entornos SAP® R/3®: SAP® R/3 3.xⓇ o posterior, mySAPERP 2004 o posterior
+Topología
+Malla.
+Redes inalámbricas
+Seguridad de redes
+Políticas de seguridad
+Configuración de cuentas de acceso
+•
+•
+·
+Antivirus, antispyware, antimalware (pagos)
+• Control de correo electrónico
+• Control de acceso a medios removibles
+• Acceso a Internet y control
+• Firewall
+·
+Proxy
+•
+Backup
+• Frecuencia: Diaria, semanal y mensual
+• Métodos: Software (Cobian) y otros medios físicos
+• Servidor espejo
+Cumple con la norma EIA/TIA 568-D ya que cumple con tener una topología, límites
+de distancia y especificaciones para telecomunicaciones.
+Tiene implementación de RAID 1 (Espejo) junto con servidores de respaldo y espejo
+garantiza la protección y disponibilidad de los datos y aplicaciones críticas de la
+organización. Esta estrategia de almacenamiento proporciona una solución robusta y
+confiable para minimizar el tiempo de inactividad y mantener la continuidad de los servicios,
+lo que es fundamental en un entorno empresarial.
+Conclusión
+El análisis exhaustivo de la infraestructura de red de la empresa ha destacado áreas
+de gran solidez tecnológica, estableciendo una base robusta para sus operaciones. Aunque
+se han identificado posibles desafíos en el mantenimiento y la gestión, estas son
+oportunidades para optimizar aún más su rendimiento. La distancia entre los técnicos y el
+personal menos familiarizado con la tecnología presenta una oportunidad para fortalecer la
+colaboración y la capacitación.
+Este estudio ha proporcionado una visión clara de las fortalezas y áreas de mejora
+en la gestión de la infraestructura de red. Al abordar estos desafíos con enfoque y
+capacitación continua, la empresa puede convertirlos en puntos fuertes que impulsarán su
+ventaja competitiva. La inversión en prácticas de gestión remota mejoradas y el
+fortalecimiento de la colaboración entre el equipo técnico y el personal crearán una base
+aún más sólida para la eficiencia y seguridad futuras de la red.
+En resumen, este análisis no solo ha identificado áreas de desarrollo, sino que ha
+brindado a la empresa una valiosa oportunidad para potenciar su infraestructura de red,
+garantizando que su tecnología sea un motor continuo de éxito y crecimiento.
